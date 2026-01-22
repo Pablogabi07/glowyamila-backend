@@ -1,0 +1,235 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "Arqueadores",
+      "description": "",
+      "price": 2800,
+      "imageUrl": "/uploads/image-1768613807832-854872137.jpeg",
+      "category": "Maquillajes",
+      "isOffer": false,
+      "offerPrice": null,
+      "active": true
+    },
+    {
+      "id": 5,
+      "name": "Brochas grandes",
+      "description": "",
+      "price": 3000,
+      "imageUrl": "/uploads/image-1768613968952-687665787.jpeg",
+      "category": "Maquillaje",
+      "isOffer": false,
+      "offerPrice": null,
+      "active": true
+    },
+    {
+      "id": 6,
+      "name": "Corrector",
+      "description": "",
+      "price": 3000,
+      "imageUrl": "/uploads/image-1768613988118-303275854.jpeg",
+      "category": "Maquillaje",
+      "isOffer": false,
+      "offerPrice": null,
+      "active": true
+    },
+    {
+      "id": 7,
+      "name": "Delineador",
+      "description": "",
+      "price": 2000,
+      "imageUrl": "/uploads/image-1768614029507-445182270.jpeg",
+      "category": "Maquillaje",
+      "isOffer": false,
+      "offerPrice": null,
+      "active": true
+    },
+    {
+      "id": 8,
+      "name": "Esponjita",
+      "description": "",
+      "price": 1700,
+      "imageUrl": "/uploads/image-1768614051808-46520.jpeg",
+      "category": "Maquillaje",
+      "isOffer": false,
+      "offerPrice": null,
+      "active": true
+    },
+    {
+      "id": 9,
+      "name": "Gloss",
+      "description": "",
+      "price": 2700,
+      "imageUrl": "/uploads/image-1768614078800-752127968.jpeg",
+      "category": "Maquillaje",
+      "isOffer": false,
+      "offerPrice": null,
+      "active": true
+    },
+    {
+      "id": 10,
+      "name": "Mascarillas",
+      "description": "",
+      "price": 1000,
+      "imageUrl": "/uploads/image-1768614122961-470333305.jpeg",
+      "category": "Maquillaje",
+      "isOffer": false,
+      "offerPrice": null,
+      "active": true
+    },
+    {
+      "id": 11,
+      "name": "Mini brochitas",
+      "description": "",
+      "price": 1000,
+      "imageUrl": "/uploads/image-1768614148982-657285698.jpeg",
+      "category": "Maquillajes",
+      "isOffer": false,
+      "offerPrice": null,
+      "active": true
+    },
+    {
+      "id": 12,
+      "name": "Perfiladores",
+      "description": "",
+      "price": 1500,
+      "imageUrl": "/uploads/image-1768614181768-321033300.jpeg",
+      "category": "Maquillajes",
+      "isOffer": false,
+      "offerPrice": null,
+      "active": true
+    },
+    {
+      "id": 13,
+      "name": "Polvo de hadas",
+      "description": "",
+      "price": 1500,
+      "imageUrl": "/uploads/image-1768614339477-753333715.jpeg",
+      "category": "Maquillajes",
+      "isOffer": false,
+      "offerPrice": null,
+      "active": true
+    },
+    {
+      "id": 14,
+      "name": "Rimel de pestañas",
+      "description": "",
+      "price": 2500,
+      "imageUrl": "/uploads/image-1768614361422-367975450.jpeg",
+      "category": "Maquillajes",
+      "isOffer": false,
+      "offerPrice": null,
+      "active": true
+    },
+    {
+      "id": 15,
+      "name": "Rubor gelatina",
+      "description": "",
+      "price": 3500,
+      "imageUrl": "/uploads/image-1768614392028-984717773.jpeg",
+      "category": "Maquillajes",
+      "isOffer": false,
+      "offerPrice": null,
+      "active": true
+    },
+    {
+      "id": 16,
+      "name": "Sombra en barra",
+      "description": "",
+      "price": 3500,
+      "imageUrl": "/uploads/image-1768614420807-203256319.jpeg",
+      "category": "Maquillajes",
+      "isOffer": false,
+      "offerPrice": null,
+      "active": true
+    },
+    {
+      "id": 17,
+      "name": "Sombras",
+      "description": "",
+      "price": 4000,
+      "imageUrl": "/uploads/image-1768614439370-471021615.jpeg",
+      "category": "Maquillajes",
+      "isOffer": false,
+      "offerPrice": null,
+      "active": true
+    },
+    {
+      "id": 18,
+      "name": "Sombras2",
+      "description": "",
+      "price": 3500,
+      "imageUrl": "/uploads/image-1768614465073-956931558.jpeg",
+      "category": "Maquillajes",
+      "isOffer": false,
+      "offerPrice": null,
+      "active": true
+    },
+    {
+      "id": 19,
+      "name": "Vincha Skincare",
+      "description": "",
+      "price": 2000,
+      "imageUrl": "/uploads/image-1768614498350-277889585.jpeg",
+      "category": "Maquillajes",
+      "isOffer": false,
+      "offerPrice": null,
+      "active": true
+    },
+    {
+      "id": 20,
+      "name": "Mascarillas + Vincha Skincare",
+      "description": "",
+      "price": 3000,
+      "imageUrl": "/uploads/image-1768616513731-87003427.jpeg",
+      "category": "General",
+      "isOffer": true,
+      "offerPrice": 2500,
+      "active": true
+    },
+    {
+      "id": 21,
+      "name": "Base Mate",
+      "description": "",
+      "price": 2500,
+      "imageUrl": "/uploads/image-1768955718167-9583992.jpeg",
+      "category": "Maquillaje",
+      "isOffer": false,
+      "offerPrice": null,
+      "active": true
+    },
+    {
+      "id": 22,
+      "name": "Corrector + Delineador",
+      "description": "",
+      "price": 5000,
+      "imageUrl": "/uploads/image-1769026172741-277303668.jpeg",
+      "category": "Ofertas",
+      "isOffer": true,
+      "offerPrice": 4000,
+      "active": true
+    },
+    {
+      "id": 23,
+      "name": "Sombra en barra + Esponjita",
+      "description": "",
+      "price": 5200,
+      "imageUrl": "/uploads/image-1769026311356-371931320.jpeg",
+      "category": "Ofertas",
+      "isOffer": true,
+      "offerPrice": 4100,
+      "active": true
+    },
+    {
+      "id": 24,
+      "name": "Base mate + Esponjita",
+      "description": "",
+      "price": 4200,
+      "imageUrl": "/uploads/image-1769039737708-517672016.jpeg",
+      "category": "Ofertas",
+      "isOffer": true,
+      "offerPrice": 3300,
+      "active": true
+    }
+  ]
+}
