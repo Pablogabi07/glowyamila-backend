@@ -222,13 +222,13 @@
     },
     {
       "id": 24,
-      "name": "Base mate + Esponjita",
+      "name": "Base Mate + Esponjitas",
       "description": "",
       "price": 4200,
-      "imageUrl": "/uploads/image-1769039737708-517672016.jpeg",
-      "category": "Ofertas",
+      "imageUrl": "/uploads/image-1769115775040-851130725.jpeg",
+      "category": "Oferta",
       "isOffer": true,
-      "offerPrice": 3300,
+      "offerPrice": 3200,
       "active": true
     }
   ]
