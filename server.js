@@ -8,7 +8,6 @@ require('dotenv').config();
 const app = express();
 const PORT = process.env.PORT || 4000;
 const ADMIN_TOKEN = process.env.ADMIN_TOKEN || 'glowyamila-secret';
-const BASE_URL = process.env.BASE_URL || `http://localhost:${PORT}`;
 
 // Middlewares
 app.use(cors());
@@ -92,19 +91,18 @@ app.get('/api/offers', (req, res) => {
   res.json(offers);
 });
 
-// --- Upload de imágenes ---
+// --- Upload de imágenes (CORREGIDO) ---
 app.post('/api/admin/upload', adminAuth, upload.single('image'), (req, res) => {
   if (!req.file) {
     return res.status(400).json({ message: 'No se subió ninguna imagen' });
   }
 
+  // Guardamos SOLO la ruta relativa (fix definitivo)
   const relativePath = `/uploads/${req.file.filename}`;
-  const fullUrl = `${BASE_URL}${relativePath}`;
 
   res.status(201).json({
     message: 'Imagen subida correctamente',
-    imageUrl: relativePath,
-    fullUrl
+    imageUrl: relativePath
   });
 });
 
